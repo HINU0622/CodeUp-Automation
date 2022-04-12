@@ -28,6 +28,6 @@ $ node main.js
 
 2. 그리고 빨간색으로 밑줄 친 버젼의 크롬드라이버 설치한다.
 
-3. 압축 풀어서 chromedriver.exe파일을 main.js와 같은 디렉토리에 덮어쓰기.
+3. 압축 풀어서 chromedriver.exe파일을 CodeUp-Automation 폴더에 덮어쓰기.
 
 # 끗.
