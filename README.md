@@ -22,7 +22,4 @@ $ node main.js
 # 오류(ERROR)
 ## 버전 오류(Version Error)
 <img width="897" alt="캡처" src="https://user-images.githubusercontent.com/80612949/162892983-5848158f-d45a-4cf8-acff-379554b39335.PNG">
-이렇게 나오는 경우엔
-### 1. 인터넷에 **chromedriver**를 쳐서 들어간다. (귀찮으면 [여기](https://chromedriver.chromium.org/) 클릭)
-### 2. 빨간색으로 밑줄 친 버젼의 크롬드라이버 설치
-### 3. 압축 풀어서 chromedriver.exe파일을 main.js와 같은 디렉토리에 덮어쓰기.
+이렇게 나오는 경우엔 >> 인터넷에 **chromedriver**를 쳐서 들어간다.(귀찮으면 [여기](https://chromedriver.chromium.org/) 클릭) -> 그리고 빨간색으로 밑줄 친 버젼의 크롬드라이버 설치한다. -> 압축 풀어서 chromedriver.exe파일을 main.js와 같은 디렉토리에 덮어쓰기.
