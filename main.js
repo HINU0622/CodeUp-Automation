@@ -21,7 +21,7 @@ var crawling = async function() {
         
     // }
 
-    for(let problem = 6087; problem <= 6098; problem++) {
+    for(let problem = 6001; problem <= 6098; problem++) {
         console.log(`PROBLEM ${problem}...`);
         let tab = 0;
         await driver.get(URL + problem + '&rid=');
